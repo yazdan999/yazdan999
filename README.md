@@ -3,7 +3,7 @@
 **Data Engineer | Microsoft Fabric & Azure | Spark | Delta Lake | ETL/ELT | CI/CD | Data Platform Automation**
 
 📍 Adelaide, South Australia, Australia  
-🏢 Data Engineer at National Pharmacies (Technology)
+🏢 Data Engineer at National Pharmacies (NSO)
 
 ---
 
