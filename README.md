@@ -1,6 +1,6 @@
 # Yazdan Aghajanian
 
-**Data Engineer | Microsoft Fabric & Azure | Spark | Delta Lake | ETL/ELT | CI/CD | Data Platform Automation**
+**Data Engineer | Microsoft Fabric & Azure | Spark & Delta Lake | ETL/ELT | CI/CD | Data Platform Engineering**
 
 📍 Adelaide, South Australia, Australia  
 🏢 Data Engineer at National Pharmacies (NSO)
