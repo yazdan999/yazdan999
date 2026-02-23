@@ -12,7 +12,7 @@
 I design and implement scalable, production-grade data platforms using Microsoft Fabric and Azure.  
 My work focuses on building reliable lakehouse architectures, automated deployment pipelines, and observable data systems.
 
-I am particularly experienced in structured Bronze → Silver , Silver → Gold layering, Delta Lake upsert patterns, and CI/CD-driven data engineering workflows.
+I am particularly experienced in structured Bronze → Silver → Gold layering, Delta Lake upsert patterns, and CI/CD-driven data engineering workflows.
 
 ---
 
